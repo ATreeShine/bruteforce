@@ -126,7 +126,7 @@ By using this tool, you agree to take full responsibility for your actions. Alwa
 ---
 
 ## Author
-Developed by [Your Name]. Contributions and feedback are welcome!
+Developed by atreeshine. Contributions and feedback are welcome!
 
 ---
 
